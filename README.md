@@ -1,4 +1,12 @@
-## Hi there 👋
+### 👋 Hi, I'm Zhuowen Li
+
+I'm a Computer Science graduate with experience in data visualization and full-stack development.  
+I worked on a project visualizing GPS DOP data in collaboration with aerospace experts.  
+Currently building my own e-commerce website and starting a business with friends.  
+The project is in development — setting up legal groundwork, brainstorming names/domains, and sourcing suppliers.  
+It's an exciting side venture alongside my passion for coding.
+
+🔗 [Development Site](https://rococo-douhua-16c8c3.netlify.app/)
 
 <!--
 **zhuowen3/zhuowen3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
